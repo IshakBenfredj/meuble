@@ -219,7 +219,7 @@ header a.contact {
 }
 @media (max-width:768px) {
     .swiper-slide {
-        padding: 150px 50px 100px;
+        padding:100px 50px 50px;
     }
     .swiper-slide h1 {
         font-size: 25px;
